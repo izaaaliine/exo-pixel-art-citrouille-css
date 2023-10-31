@@ -1,0 +1,20 @@
+div div {
+  height: 10px;
+  width: 10px;
+  border: 1px solid;
+}
+div {
+  display: flex;
+}
+.orange {
+  background-color: orange;
+}
+.orangefonce {
+  background-color: orangered;
+}
+.vert {
+  background-color: green;
+}
+.noir {
+  background-color: black;
+}
